@@ -67,7 +67,7 @@ I will add homework deadlines.
 | Day 13  |  | | |
 | Day 14  |  | | |
 | Day 15  |  | | |
-| Day 16  | **Midterm Exam** | | |
+| Day 16  | **Exam 1** | | |
 | Day 17  |  | | |
 | Day 18  |  | | |
 | Day 19  |  | | |
@@ -79,6 +79,6 @@ I will add homework deadlines.
 | Day 25  |  | | |
 | Day 26  |  | | |
 | Day 27  |  | | |
-| Day 28  |  | | |
-| Day 29  |  | | |
-| EXAM    | **Final Exam**  | | |
+| Day 28  | Project Presentations | | |
+| Day 29  | Project Presentations | | |
+| EXAM    | **Exam 2**  | | |
