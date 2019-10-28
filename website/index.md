@@ -32,6 +32,7 @@ A key to understanding networks is looking for relationships among the everyday.
 * [Social Network and Archival Context](https://snaccooperative.org)
 * [Archive.org](https://archive.org)
 * [Network Science Book Datasets](http://networksciencebook.com/translations/en/resources/data.html)
+* [ICON datasets](https://icon.colorado.edu/#!/networks)
 
 ## Grade Breakdown
 
@@ -55,10 +56,10 @@ I will add homework deadlines.
 | Day 1   | Course Overview, Motivation  | | HW1 (Graph representations) |
 | Day 2   | Graph Theory              | | | 
 | Day 3   | Graph Theory, Centrality  | | |
-| Day 4   |  | | |
-| Day 5   |  | | |
+| Day 4   | Graph Visualization Techniques | | |
+| Day 5   | Overview of Technologies (Gephi, NetworkX, ...) | | |
 | Day 6   |  | | |
-| Day 7   |  | | |
+| Day 7   | Project Proposals | | |
 | Day 8   |  | | |
 | Day 9   |  | | |
 | Day 10  |  | | |
@@ -68,7 +69,7 @@ I will add homework deadlines.
 | Day 14  |  | | |
 | Day 15  |  | | |
 | Day 16  | **Exam 1** | | |
-| Day 17  |  | | |
+| Day 17  | Time-Varying Graphs | | |
 | Day 18  |  | | |
 | Day 19  |  | | |
 | Day 20  |  | | |
