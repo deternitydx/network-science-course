@@ -21,4 +21,5 @@ http://www-personal.umich.edu/~mejn/courses/2017/cscs535/index.html
 
 Newman has a new book: https://global.oup.com/academic/product/networks-9780198805090?cc=us&lang=en&#
 - Can request evaluation copy and solutions if teaching the course in 2020
+- Available online at UVA: https://search.lib.virginia.edu/catalog/u7879307
 
