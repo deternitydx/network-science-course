@@ -1,6 +1,6 @@
 ---
 layout: course-shared
-title: CS4102 Algorithms - Fall 2019
+title: Graduate Network Science 
 ---
 # Network Science
 
