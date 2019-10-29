@@ -22,11 +22,14 @@ is often a good way to get a more immediate response.
 
 ### Textbook
 
-For this course, we will mainly be using Albert Barabasi's [Network Science](http://networksciencebook.com/) book found online.
+Course material will cover topics from the following textbooks.  The first is available for free online.  The second is available in print as well as through the UVA library.
+* Albert Barabasi, [Network Science](http://networksciencebook.com/)
+* Mark Newman, [Networks (2nd Edition)](https://search.lib.virginia.edu/catalog/u7879307)
+
 
 ### Datasets
 
-A key to understanding networks is looking for relationships among the everyday.  Here are some links to datasets that may be used for the course project.
+Here are some links to datasets for experimentation.  They may *not* be used for the course project.
 
 * [UVA Dataverse](https://dataverse.lib.virginia.edu/)
 * [Social Network and Archival Context](https://snaccooperative.org)
@@ -55,31 +58,30 @@ I will add homework deadlines.
 | ------- | ------------------------- | ------------------- | --------------- |
 | Day 1   | Course Overview, Motivation  | | HW1 (Graph representations) |
 | Day 2   | Graph Theory              | | | 
-| Day 3   | Graph Theory, Centrality  | | |
-| Day 4   | Graph Visualization Techniques | | |
-| Day 5   | Overview of Technologies (Gephi, NetworkX, ...) | | |
-| Day 6   |  | | |
-| Day 7   | Project Proposals | | |
-| Day 8   |  | | |
-| Day 9   |  | | |
-| Day 10  |  | | |
-| Day 11  |  | | |
-| Day 12  |  | | |
-| Day 13  |  | | |
-| Day 14  |  | | |
-| Day 15  |  | | |
-| Day 16  | **Exam 1** | | |
-| Day 17  | Time-Varying Graphs | | |
-| Day 18  |  | | |
-| Day 19  |  | | |
-| Day 20  |  | | |
+| Day 3   | Graph Theory, Data Structures  | | |
+| Day 4   | Centrality Measures  | | |
+| Day 5   | Real-World Examples (Sampling)  | | |
+| Day 6   | Graph Visualization Techniques | | |
+| Day 7   | Overview of Tools (Gephi, NetworkX, ...) | | |
+| Day 8   | *Project Proposals* | | |
+| Day 9   | Basic Network Models  | | |
+| Day 10  | Small-world, scale-free properties | | |
+| Day 11  | Barabasi-Albert Model | | |
+| Day 12  | Communities - Clustering | | |
+| Day 13  | Communities - Hierarchical | | |
+| Day 14  | **Exam 1** | | |
+| Day 15  | Dynamic Graphs | | |
+| Day 16  | Epidemic Models | | |
+| Day 17  | Growth, Densification, Rewiring | | |
+| Day 18  | Time-Varying Graphs | | |
+| Day 19  | Social Networks | | |
+| Day 20  | *begin paper presentations and discussion* | | |
 | Day 21  |  | | |
 | Day 22  |  | | |
 | Day 23  |  | | |
 | Day 24  |  | | |
 | Day 25  |  | | |
 | Day 26  |  | | |
-| Day 27  |  | | |
-| Day 28  | Project Presentations | | |
-| Day 29  | Project Presentations | | |
-| EXAM    | **Exam 2**  | | |
+| Day 27  | **Exam 2**  | | |
+| Day 28  | *Project Presentations* | | |
+| Day 29  | *Project Presentations* | | |
